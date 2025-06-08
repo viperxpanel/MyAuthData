@@ -1,0 +1,18 @@
+{
+  "admin": [
+    {
+      "username": "myadminuser",
+      "password": "$2a$10$YourGeneratedBCryptHashHereForPassword", // Replace with your actual BCrypt hash
+      "expiry": "2030-12-31", // Optional: Your subscription expiry date
+      "subscription": "owner", // Or "aimkillapk", "tester", etc.
+      "device_id": "" // Leave empty for first login
+    },
+    {
+      "username": "anotheruser",
+      "password": "$2a$10$AnotherGeneratedBCryptHashForPassword",
+      "expiry": "2025-06-30",
+      "subscription": "aimkillapk",
+      "device_id": ""
+    }
+  ]
+}
