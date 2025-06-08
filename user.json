@@ -1,18 +1,18 @@
 {
-  "admin": [
-    {
-      "username": "VIPERX",
-      "password": "$2a$12$A9TX9PLWaflRZKFTitF4cuzvn/cxXFj2R48VUfrGlYQX4usjCMQJm", // Replace with your actual BCrypt hash
-      "expiry": "2030-12-31", // Optional: Your subscription expiry date
-      "subscription": "owner", // Or "aimkillapk", "tester", etc.
-      "device_id": "" // Leave empty for first login
-    },
-    {
-      "username": "anotheruser",
-      "password": "$2a$10$AnotherGeneratedBCryptHashForPassword",
-      "expiry": "2025-06-30",
-      "subscription": "aimkillapk",
-      "device_id": ""
-    }
-  ]
+    "admin": [
+        {
+            "username": "VIPERX",
+            "password": "$2a$12$A9TX9PLWaflRZKFTitF4cuzvn\/cxXFj2R48VUfrGlYQX4usjCMQJm",
+            "expiry": "2030-12-31",
+            "subscription": "owner",
+            "device_id": "c6e6f17f4397961c"
+        },
+        {
+            "username": "anotheruser",
+            "password": "$2a$10$AnotherGeneratedBCryptHashForPassword",
+            "expiry": "2025-06-30",
+            "subscription": "aimkillapk",
+            "device_id": ""
+        }
+    ]
 }
