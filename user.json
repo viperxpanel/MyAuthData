@@ -2,7 +2,7 @@
   "admin": [
     {
       "username": "VIPERX",
-      "password": "$2a$12$yRPCcCBHSnpNrbN1YOcLs.eSiiElGNkdjFOBtkEeCc5RZcR1NXmii", // Replace with your actual BCrypt hash
+      "password": "$2a$12$A9TX9PLWaflRZKFTitF4cuzvn/cxXFj2R48VUfrGlYQX4usjCMQJm", // Replace with your actual BCrypt hash
       "expiry": "2030-12-31", // Optional: Your subscription expiry date
       "subscription": "owner", // Or "aimkillapk", "tester", etc.
       "device_id": "" // Leave empty for first login
