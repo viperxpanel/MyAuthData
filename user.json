@@ -9,10 +9,10 @@
         },
         {
             "username": "VIPERX2",
-            "password": "$2a$12$bEtOSn.Uu7P/d1l9dFInO..BDjkT0DbMWAMdgssElzZTJzJkZUWLu",
+            "password": "$2a$12$bEtOSn.Uu7P\/d1l9dFInO..BDjkT0DbMWAMdgssElzZTJzJkZUWLu",
             "expiry": "2025-06-30",
             "subscription": "aimkillapk",
-            "device_id": ""
+            "device_id": "593d4b8ae55b6346"
         }
     ]
 }
