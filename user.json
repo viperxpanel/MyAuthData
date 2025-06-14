@@ -1,8 +1,8 @@
 {
     "admin": [
         {
-            "username": "VIPERX1",
-            "password": "$2a$12$E8xlpYIT/G68fKUjhy2tienZuYHYB9dpI5XIUPqQKRYsT/RvkETXq",
+            "username": "VIPERX",
+            "password": "$2a$12$8yoP7Vv/pA.9hNSvIiwD0e4JSRax6oujxIwdE1t10apOb9JnoA05q",
             "expiry": "2030-12-31",
             "subscription": "owner",
             "device_id": "c6e6f17f4397961c"
