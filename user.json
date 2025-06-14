@@ -13,6 +13,13 @@
             "expiry": "2025-06-30",
             "subscription": "aimkillapk",
             "device_id": "593d4b8ae55b6346"
+        },
+        {  
+            "username": "SicarioX",
+            "password": "$2a$12$F4ao/67jbsisRnMWf3U9muRBHJTNEUQAbGDmYWTGgVY2Plf.uk5cm",  // ¡CAMBIA ESTO!
+            "expiry": "2026-12-31",
+            "subscription": "premium",
+            "device_id": "new_device_id_example" // ¡CAMBIA ESTO!
         }
     ]
 }
